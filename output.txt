@@ -1,0 +1,17 @@
+Color: Yellow
+Graphite: 2
+Eraser remaining: 1.0
+The Yellow pencil is drawing...
+The Yellow pencil is erasing...
+
+-------------------
+
+Color: Red
+Graphite: 1.5
+Eraser remaining: 0.5
+The Red pencil is drawing...
+The Red pencil is erasing...
+
+-------------------
+
+Updated eraser: 0.8
