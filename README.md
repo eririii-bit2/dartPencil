@@ -1,7 +1,7 @@
 # dartPencil
 Lee Endrey Alpas, 3.3BSIT
 > Object-Oriented Programming Project in Dart
-## Object Pencil
+## Object: Pencil
 **Properties (What it has):**
 - Graphite
 - Wooden body
